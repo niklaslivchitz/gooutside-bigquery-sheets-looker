@@ -1,10 +1,10 @@
 # GoOutside: BigQuery, Google Sheets and Looker Studio
 
-Bootcamp project at WBS Coding School. The setup: GoOutside, a (fictional) outdoor and camping gear supplier, lost its only data analyst. What's left is a handful of CSV files and colleagues who don't know SQL. My job was to get the data into BigQuery, build Google Sheets for two people who need answers, and make a Looker Studio dashboard for everyone else.
+Bootcamp project. The setup: GoOutside, a (fictional) outdoor and camping gear supplier, lost its only data analyst. What's left is a handful of CSV files and colleagues who don't know SQL. My job was to get the data into BigQuery, build Google Sheets for two people who need answers, and make a Looker Studio dashboard for everyone else.
 
 The final step was a five-minute demo for the CEO. The point was to show the tools working, not to present an analysis.
 
-**BigQuery** (tables and SQL views) → **Google Sheets** (Connected Sheets for Dustin and Sarah) → **Looker Studio** (dashboard)
+**BigQuery** (tables and SQL views) → **Google Sheests** (Connected Sheets for Dustin and Sarah) → **Looker Studio** (dashboard)
 
 ## The two questions
 
